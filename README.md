@@ -58,3 +58,6 @@ The black 4mm cord sleeve is available from mutiple different vendors. Snip the 
 https://github.com/lasselukkari/DuinoDCX
 
 https://github.com/AlphaLima/ESP32-Serial-Bridge
+
+## License
+Creative Commons — Attribution 4.0 International
