@@ -39,7 +39,7 @@ The wiring is implemented as DTE. RS232 TX and RX are connected to the default S
 ### Case
 <img src="https://i.imgur.com/vMuh47L.jpg" width="300">
 
-The plastic housing is a taken from a cheap vga break out board available from mutiple different vendors. Search eBay or Aliexpress for `DB15 breakout`. 
+The plastic housing is taken from a cheap vga break out board available from multiple different vendors. Search eBay or Aliexpress for `DB15 breakout`. 
 
 ### USB to TTL Cable
 <img src="https://i.imgur.com/Rv4BXdY.jpg" width="400">
@@ -52,7 +52,7 @@ Print the strain_relief.stl out of any plastic material to properly secure the c
 ### Cord Sleeve
 <img src="https://i.imgur.com/vxLgsbd.jpg" width="200">
 
-The black 4mm cord sleeve is available from mutiple different vendors. Snip the end of to make it fit. Search eBay or Aliexpress for `4mm cord sleeve` or `4mm strain relief`.
+The black 4mm cord sleeve is available from multiple different vendors. Snip the end off to make it fit. Search eBay or Aliexpress for `4mm cord sleeve` or `4mm strain relief`.
 
 ## Example projects
 https://github.com/lasselukkari/DuinoDCX
