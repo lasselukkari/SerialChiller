@@ -34,6 +34,8 @@ The wiring is implemented as DTE. RS232 TX and RX are connected to the default S
 | SERIAL       | Serial         | 1X02         | pinhead          |
 | VIN          | Power          | 1X02         | pinhead          |
 
+## PCB Thickness
+Use 0.8mm thick pcb to make the board align horisontally with the case.
 
 ## Other components
 ### Case
