@@ -9,7 +9,7 @@
 <img src="https://i.imgur.com/BU6icBg.jpg" width="600">
 
 ## Wiring
-The wiring is implemented as DTE. RS232 TX and RX are connected to the default Serial2 pins of the ESP32 (IO 16 & 17). RTS is connected to IO21 and CTS to IO22.
+The wiring is implemented as DTE. RS232 TX and RX are connected to the default Serial2 pins of the ESP32 that are IO16 and IO17). RTS is connected to IO21 and CTS to IO22.
 
 ## Partlist
 | Part         | Value          | Package      | Part #           |
