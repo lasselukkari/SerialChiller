@@ -4,7 +4,6 @@
 <img src="https://i.imgur.com/FYeBvYt.png" width="600">
 <img src="https://i.imgur.com/RNUIggS.png" width="600">
 <img src="https://i.imgur.com/fU7STPd.png" width="600">
-<img src="https://i.imgur.com/7YSelyO.jpg" width="600">
 
 ## Wiring
 The wiring is implemented as DTE. RS232 TX and RX are connected to the default Serial2 pins IO16 and IO17. RTS is connected to IO21 and CTS to IO22.
