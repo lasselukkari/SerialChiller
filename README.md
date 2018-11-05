@@ -4,6 +4,7 @@
 <img src="https://i.imgur.com/FYeBvYt.png" width="600">
 <img src="https://i.imgur.com/RNUIggS.png" width="600">
 <img src="https://i.imgur.com/7YSelyO.jpg" width="600">
+<img src="https://i.imgur.com/4ShiExd.jpg" width="600">
 
 ## Wiring
 The wiring is implemented as DTE. RS232 TX and RX are connected to the default Serial2 pins IO16 and IO17. RTS is connected to IO21 and CTS to IO22.
@@ -57,8 +58,6 @@ The black 4mm cord sleeve is available from multiple different vendors. Snip the
 To avoid any possible interference it’s generally advisable to have all electronic devices powered off while making any connections.
 
 If the device is physically located away from obstacles that could weaken the wifi signal the controller can be directly connected to the RS232 port of the device.
-
-<img src="https://i.imgur.com/4ShiExd.jpg" width="600">
 
 If the device is located in a unfavourable place for the wifi signal or the usb cable length is not long enough use a DB9 female to male extension cable between the controller and the device. 
 
