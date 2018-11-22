@@ -1,10 +1,9 @@
 # SerialChiller
 > ESP32 based wireless RS232 adapter for the Internet of old things.
 
-<img src="https://i.imgur.com/FYeBvYt.png" width="600">
-<img src="https://i.imgur.com/RNUIggS.png" width="600">
-<img src="https://i.imgur.com/7YSelyO.jpg" width="600">
-<img src="https://i.imgur.com/4ShiExd.jpg" width="600">
+<img src="https://i.imgur.com/FYeBvYt.png" width="480">
+<img src="https://i.imgur.com/sKjFjxz.jpg" width="480">
+<img src="https://i.imgur.com/4ShiExd.jpg" width="480">
 
 ## Wiring
 The wiring is implemented as DTE. RS232 TX and RX are connected to the default Serial2 pins IO16 and IO17. RTS is connected to IO21 and CTS to IO22.
