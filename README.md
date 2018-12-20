@@ -1,5 +1,5 @@
 # SerialChiller
-> ESP32 based wireless RS232 adapter for the Internet of old things.
+> ESP32 and MAX3232 based wireless RS232 adapter for the Internet of old things.
 
 <img src="https://i.imgur.com/FYeBvYt.png" width="480">
 <img src="https://i.imgur.com/sKjFjxz.jpg" width="480">
