@@ -58,13 +58,13 @@ To avoid any possible interference it’s generally advisable to have all electr
 
 If the device is physically located away from obstacles that could weaken the wifi signal the controller can be directly connected to the RS232 port of the device.
 
-If the device is located in a unfavourable place for the wifi signal or the usb cable length is not long enough use a DB9 female to male extension cable between the controller and the device. 
-
-<img src="https://i.imgur.com/62l8ALO.jpg" width="600">
+If the device is located in a unfavourable place for the wifi signal or the usb cable length is not long enough use a DB9 female to male extension cable between the controller and the device.
 
 Make sure that the thumb screws are properly tightened or remove them completely. A loose thumb screw head may short circuit the electronics and cause permanent damage to the attached devices.
 
-When used with an extension cable the long thumbscrews can be replaced with #4-40 jackscrews. This will also further improve the wifi signal quality.
+<img src="https://i.imgur.com/62l8ALO.jpg" width="600">
+
+When used with an extension cable the long thumb screws can be replaced with #4-40 jackscrews. This will also further improve the wifi signal quality.
 
 ## Power Source
 Any standard usb charger will work fine. The average power consumption is under 500mA.
