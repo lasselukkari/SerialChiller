@@ -62,6 +62,8 @@ If the device is located in a unfavourable place for the wifi signal or the usb 
 
 <img src="https://i.imgur.com/62l8ALO.jpg" width="600">
 
+Make sure that the thumb screws are properly tightened or remove them completely. A loose thumb screw head may short circuit the electronics and cause permanent damage to the attached devices.
+
 When used with an extension cable the long thumbscrews can be replaced with #4-40 jackscrews. This will also further improve the wifi signal quality.
 
 ## Power Source
