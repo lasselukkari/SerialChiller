@@ -5,6 +5,9 @@
 <img src="https://i.imgur.com/sKjFjxz.jpg" width="480">
 <img src="https://i.imgur.com/4ShiExd.jpg" width="480">
 
+## Build video
+[![DuinoDCX Demo Video](https://img.youtube.com/vi/_-YNTO3l9uc/0.jpg)](https://www.youtube.com/watch?v=_-YNTO3l9uc)
+
 ## Wiring
 The wiring is implemented as DTE. RS232 TX and RX are connected to the default Serial2 pins IO16 and IO17. RTS is connected to IO21 and CTS to IO22.
 
