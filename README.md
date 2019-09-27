@@ -57,19 +57,13 @@ Print the strain_relief.stl out of any plastic material to properly secure the c
 The black 4mm cord sleeve is available from multiple different vendors. Snip the end off to make it fit. Search eBay or Aliexpress for `4mm cord sleeve` or `4mm strain relief`.
 
 ## Installation
-To avoid any possible interference it’s generally advisable to have all electronic devices powered off while making any connections.
+Make sure that the thumb screws are properly tightened or remove them completely. A loose thumb screw may short circuit the electronics.
 
-If the device is physically located away from obstacles that could weaken the wifi signal the controller can be directly connected to the RS232 port of the device.
+When used with an extension cable the thumb screws can be replaced with #4-40 jackscrews.
 
-If the device is located in a unfavourable place for the wifi signal or the usb cable length is not long enough use a DB9 female to male extension cable between the controller and the device.
+<img src="https://i.imgur.com/62l8ALO.jpg" width="400">
 
-Make sure that the thumb screws are properly tightened or remove them completely. A loose thumb screw head may short circuit the electronics and cause permanent damage to the attached devices.
-
-<img src="https://i.imgur.com/62l8ALO.jpg" width="600">
-
-When used with an extension cable the long thumb screws can be replaced with #4-40 jackscrews. This will also further improve the wifi signal quality.
-
-## Power Source
+## Power Supply
 Any standard usb charger will work fine. The average power consumption is under 500mA.
 
 ## Example projects
