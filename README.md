@@ -45,7 +45,7 @@ The plastic housing is taken from a cheap vga break out board available from mul
 
 ### USB to TTL Cable
 <img src="https://i.imgur.com/Rv4BXdY.jpg" width="400">
-Use a ready made USB to TTL serial adapter cable for powering and flashing the board.
+USB to TTL serial adapter cable for powering and flashing the board.
 
 ### Strain Relief
 <img src="https://i.imgur.com/pojF2cD.png" width="400">
